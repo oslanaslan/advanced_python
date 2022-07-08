@@ -1,0 +1,198 @@
+2021-11-16 23:35:11 asset INFO reading asset file...
+2021-11-16 23:35:11 asset DEBUG building asset object...
+2021-11-16 23:35:11 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 1 gives 100.00000000000009
+2021-11-16 23:35:11 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 2 gives 210.0000000000002
+2021-11-16 23:35:11 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 5 gives 610.5100000000006
+2021-11-16 23:35:11 asset INFO reading asset file...
+2021-11-16 23:35:11 asset DEBUG building asset object...
+2021-11-16 23:35:11 asset WARNING too many periods were provided: 6
+2021-11-16 23:35:11 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 1 gives 100.00000000000009
+2021-11-16 23:35:11 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 2 gives 210.0000000000002
+2021-11-16 23:35:11 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 5 gives 610.5100000000006
+2021-11-16 23:35:11 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 7 gives 948.7171000000012
+2021-11-16 23:35:11 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 10 gives 1593.7424601000023
+2021-11-16 23:35:11 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 11 gives 1853.1167061100025
+2021-11-16 23:36:18 asset INFO reading asset file...
+2021-11-16 23:36:18 asset DEBUG building asset object...
+2021-11-16 23:36:18 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 1 gives 100.00000000000009
+2021-11-16 23:36:18 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 2 gives 210.0000000000002
+2021-11-16 23:36:18 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 5 gives 610.5100000000006
+2021-11-16 23:36:18 asset INFO reading asset file...
+2021-11-16 23:36:18 asset DEBUG building asset object...
+2021-11-16 23:36:18 asset WARNING too many periods were provided: 6
+2021-11-16 23:36:18 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 1 gives 100.00000000000009
+2021-11-16 23:36:18 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 2 gives 210.0000000000002
+2021-11-16 23:36:18 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 5 gives 610.5100000000006
+2021-11-16 23:36:18 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 7 gives 948.7171000000012
+2021-11-16 23:36:18 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 10 gives 1593.7424601000023
+2021-11-16 23:36:18 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 11 gives 1853.1167061100025
+2021-11-16 23:37:47 asset INFO reading asset file...
+2021-11-16 23:37:47 asset DEBUG building asset object...
+2021-11-16 23:37:47 asset WARNING too many periods were provided: 6
+2021-11-16 23:37:47 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 1 gives 100.00000000000009
+2021-11-16 23:37:47 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 2 gives 210.0000000000002
+2021-11-16 23:37:47 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 5 gives 610.5100000000006
+2021-11-16 23:37:47 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 7 gives 948.7171000000012
+2021-11-16 23:37:47 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 10 gives 1593.7424601000023
+2021-11-16 23:37:47 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 12 gives 2138.428376721003
+2021-11-16 23:39:55 asset INFO reading asset file...
+2021-11-16 23:39:55 asset DEBUG building asset object...
+2021-11-16 23:39:55 asset WARNING too many periods were provided: 6
+2021-11-16 23:39:55 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 1 gives 100.00000000000009
+2021-11-16 23:39:55 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 2 gives 210.0000000000002
+2021-11-16 23:39:55 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 5 gives 610.5100000000006
+2021-11-16 23:39:55 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 7 gives 948.7171000000012
+2021-11-16 23:39:55 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 10 gives 1593.7424601000023
+2021-11-16 23:39:55 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 12 gives 2138.428376721003
+2021-11-16 23:39:59 asset INFO reading asset file...
+2021-11-16 23:39:59 asset DEBUG building asset object...
+2021-11-16 23:39:59 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 1 gives 100.00000000000009
+2021-11-16 23:39:59 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 2 gives 210.0000000000002
+2021-11-16 23:39:59 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 5 gives 610.5100000000006
+2021-11-16 23:39:59 asset INFO reading asset file...
+2021-11-16 23:39:59 asset DEBUG building asset object...
+2021-11-16 23:39:59 asset WARNING too many periods were provided: 6
+2021-11-16 23:39:59 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 1 gives 100.00000000000009
+2021-11-16 23:39:59 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 2 gives 210.0000000000002
+2021-11-16 23:39:59 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 5 gives 610.5100000000006
+2021-11-16 23:39:59 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 7 gives 948.7171000000012
+2021-11-16 23:39:59 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 10 gives 1593.7424601000023
+2021-11-16 23:39:59 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 11 gives 1853.1167061100025
+2021-11-16 23:39:59 asset INFO reading asset file...
+2021-11-16 23:39:59 asset DEBUG building asset object...
+2021-11-16 23:39:59 asset WARNING too many periods were provided: 6
+2021-11-16 23:39:59 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 1 gives 100.00000000000009
+2021-11-16 23:39:59 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 2 gives 210.0000000000002
+2021-11-16 23:39:59 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 5 gives 610.5100000000006
+2021-11-16 23:39:59 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 7 gives 948.7171000000012
+2021-11-16 23:39:59 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 10 gives 1593.7424601000023
+2021-11-16 23:39:59 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 11 gives 1853.1167061100025
+2021-11-16 23:42:49 asset INFO reading asset file...
+2021-11-16 23:42:49 asset DEBUG building asset object...
+2021-11-16 23:42:49 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 1 gives 100.00000000000009
+2021-11-16 23:42:49 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 2 gives 210.0000000000002
+2021-11-16 23:42:49 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 5 gives 610.5100000000006
+2021-11-16 23:42:49 asset INFO reading asset file...
+2021-11-16 23:42:49 asset DEBUG building asset object...
+2021-11-16 23:42:49 asset WARNING too many periods were provided: 6
+2021-11-16 23:42:49 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 1 gives 100.00000000000009
+2021-11-16 23:42:49 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 2 gives 210.0000000000002
+2021-11-16 23:42:49 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 5 gives 610.5100000000006
+2021-11-16 23:42:49 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 7 gives 948.7171000000012
+2021-11-16 23:42:49 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 10 gives 1593.7424601000023
+2021-11-16 23:42:49 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 11 gives 1853.1167061100025
+2021-11-16 23:42:49 asset INFO reading asset file...
+2021-11-16 23:42:49 asset DEBUG building asset object...
+2021-11-16 23:42:49 asset WARNING too many periods were provided: 6
+2021-11-16 23:42:49 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 1 gives 100.00000000000009
+2021-11-16 23:42:49 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 2 gives 210.0000000000002
+2021-11-16 23:42:49 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 5 gives 610.5100000000006
+2021-11-16 23:42:49 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 7 gives 948.7171000000012
+2021-11-16 23:42:49 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 10 gives 1593.7424601000023
+2021-11-16 23:42:49 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 11 gives 1853.1167061100025
+2021-11-16 23:47:57 asset INFO reading asset file...
+2021-11-16 23:47:57 asset DEBUG building asset object...
+2021-11-16 23:47:57 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 1 gives 100.00000000000009
+2021-11-16 23:47:57 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 2 gives 210.0000000000002
+2021-11-16 23:47:57 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 5 gives 610.5100000000006
+2021-11-16 23:47:57 asset INFO reading asset file...
+2021-11-16 23:47:57 asset DEBUG building asset object...
+2021-11-16 23:47:57 asset WARNING too many periods were provided: 6
+2021-11-16 23:47:57 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 1 gives 100.00000000000009
+2021-11-16 23:47:57 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 2 gives 210.0000000000002
+2021-11-16 23:47:57 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 5 gives 610.5100000000006
+2021-11-16 23:47:57 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 7 gives 948.7171000000012
+2021-11-16 23:47:57 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 10 gives 1593.7424601000023
+2021-11-16 23:47:57 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 11 gives 1853.1167061100025
+2021-11-16 23:48:10 asset INFO reading asset file...
+2021-11-16 23:48:10 asset DEBUG building asset object...
+2021-11-16 23:48:10 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 1 gives 100.00000000000009
+2021-11-16 23:48:10 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 2 gives 210.0000000000002
+2021-11-16 23:48:10 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 5 gives 610.5100000000006
+2021-11-16 23:48:10 asset INFO reading asset file...
+2021-11-16 23:48:10 asset DEBUG building asset object...
+2021-11-16 23:48:10 asset WARNING too many periods were provided: 6
+2021-11-16 23:48:10 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 1 gives 100.00000000000009
+2021-11-16 23:48:10 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 2 gives 210.0000000000002
+2021-11-16 23:48:10 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 5 gives 610.5100000000006
+2021-11-16 23:48:10 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 7 gives 948.7171000000012
+2021-11-16 23:48:10 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 10 gives 1593.7424601000023
+2021-11-16 23:48:10 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 11 gives 1853.1167061100025
+2021-11-16 23:48:10 asset INFO reading asset file...
+2021-11-16 23:48:10 asset DEBUG building asset object...
+2021-11-16 23:48:10 asset WARNING too many periods were provided: 6
+2021-11-16 23:48:10 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 1 gives 100.00000000000009
+2021-11-16 23:48:10 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 2 gives 210.0000000000002
+2021-11-16 23:48:10 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 5 gives 610.5100000000006
+2021-11-16 23:48:10 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 7 gives 948.7171000000012
+2021-11-16 23:48:10 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 10 gives 1593.7424601000023
+2021-11-16 23:48:10 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 11 gives 1853.1167061100025
+2021-11-16 23:56:58 asset INFO reading asset file...
+2021-11-16 23:56:58 asset DEBUG building asset object...
+2021-11-16 23:56:58 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 1 gives 100.00000000000009
+2021-11-16 23:56:58 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 2 gives 210.0000000000002
+2021-11-16 23:56:58 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 5 gives 610.5100000000006
+2021-11-16 23:56:58 asset INFO reading asset file...
+2021-11-16 23:56:58 asset DEBUG building asset object...
+2021-11-16 23:56:58 asset WARNING too many periods were provided: 6
+2021-11-16 23:56:58 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 1 gives 100.00000000000009
+2021-11-16 23:56:58 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 2 gives 210.0000000000002
+2021-11-16 23:56:58 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 5 gives 610.5100000000006
+2021-11-16 23:56:58 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 7 gives 948.7171000000012
+2021-11-16 23:56:58 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 10 gives 1593.7424601000023
+2021-11-16 23:56:58 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 11 gives 1853.1167061100025
+2021-11-16 23:56:58 asset INFO reading asset file...
+2021-11-16 23:56:58 asset DEBUG building asset object...
+2021-11-16 23:56:58 asset WARNING too many periods were provided: 6
+2021-11-16 23:56:58 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 1 gives 100.00000000000009
+2021-11-16 23:56:58 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 2 gives 210.0000000000002
+2021-11-16 23:56:58 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 5 gives 610.5100000000006
+2021-11-16 23:56:58 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 7 gives 948.7171000000012
+2021-11-16 23:56:58 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 10 gives 1593.7424601000023
+2021-11-16 23:56:58 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 11 gives 1853.1167061100025
+2021-11-16 23:57:22 asset INFO reading asset file...
+2021-11-16 23:57:22 asset DEBUG building asset object...
+2021-11-16 23:57:22 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 1 gives 100.00000000000009
+2021-11-16 23:57:22 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 2 gives 210.0000000000002
+2021-11-16 23:57:22 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 5 gives 610.5100000000006
+2021-11-16 23:57:22 asset INFO reading asset file...
+2021-11-16 23:57:22 asset DEBUG building asset object...
+2021-11-16 23:57:22 asset WARNING too many periods were provided: 6
+2021-11-16 23:57:22 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 1 gives 100.00000000000009
+2021-11-16 23:57:22 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 2 gives 210.0000000000002
+2021-11-16 23:57:22 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 5 gives 610.5100000000006
+2021-11-16 23:57:22 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 7 gives 948.7171000000012
+2021-11-16 23:57:22 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 10 gives 1593.7424601000023
+2021-11-16 23:57:22 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 11 gives 1853.1167061100025
+2021-11-16 23:57:22 asset INFO reading asset file...
+2021-11-16 23:57:22 asset DEBUG building asset object...
+2021-11-16 23:57:22 asset WARNING too many periods were provided: 6
+2021-11-16 23:57:22 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 1 gives 100.00000000000009
+2021-11-16 23:57:22 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 2 gives 210.0000000000002
+2021-11-16 23:57:22 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 5 gives 610.5100000000006
+2021-11-16 23:57:22 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 7 gives 948.7171000000012
+2021-11-16 23:57:22 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 10 gives 1593.7424601000023
+2021-11-16 23:57:22 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 11 gives 1853.1167061100025
+2021-11-17 00:01:27 asset INFO reading asset file...
+2021-11-17 00:01:27 asset DEBUG building asset object...
+2021-11-17 00:01:27 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 1 gives 100.00000000000009
+2021-11-17 00:01:27 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 2 gives 210.0000000000002
+2021-11-17 00:01:27 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 5 gives 610.5100000000006
+2021-11-17 00:01:27 asset INFO reading asset file...
+2021-11-17 00:01:27 asset DEBUG building asset object...
+2021-11-17 00:01:27 asset WARNING too many periods were provided: 6
+2021-11-17 00:01:27 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 1 gives 100.00000000000009
+2021-11-17 00:01:27 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 2 gives 210.0000000000002
+2021-11-17 00:01:27 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 5 gives 610.5100000000006
+2021-11-17 00:01:27 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 7 gives 948.7171000000012
+2021-11-17 00:01:27 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 10 gives 1593.7424601000023
+2021-11-17 00:01:27 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 11 gives 1853.1167061100025
+2021-11-17 00:01:27 asset INFO reading asset file...
+2021-11-17 00:01:27 asset DEBUG building asset object...
+2021-11-17 00:01:27 asset WARNING too many periods were provided: 6
+2021-11-17 00:01:27 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 1 gives 100.00000000000009
+2021-11-17 00:01:27 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 2 gives 210.0000000000002
+2021-11-17 00:01:27 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 5 gives 610.5100000000006
+2021-11-17 00:01:27 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 7 gives 948.7171000000012
+2021-11-17 00:01:27 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 10 gives 1593.7424601000023
+2021-11-17 00:01:27 asset DEBUG asset Asset(property, 1000.0, 0.1) for period 11 gives 1853.1167061100025

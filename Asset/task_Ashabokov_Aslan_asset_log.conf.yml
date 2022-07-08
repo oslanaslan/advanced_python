@@ -1,0 +1,27 @@
+version: 1
+formatters:
+  main_formatter:
+    class: logging.Formatter
+    format: "%(asctime)s %(name)s %(levelname)s %(message)s"
+    datefmt: "%Y-%m-%d %H:%M:%S"
+handlers:
+  debug_file_handler:
+    class: logging.FileHandler
+    filename: asset_log.debug
+    level: DEBUG
+    formatter: main_formatter
+  warn_file_handler:
+    class: logging.FileHandler
+    filename: asset_log.warn
+    level: WARNING
+    formatter: main_formatter
+  info_stream_handler:
+    class: logging.StreamHandler
+    stream: ext://sys.stderr
+    level: INFO
+    formatter: main_formatter
+loggers:
+  asset:
+    level: DEBUG
+    handlers: [debug_file_handler, warn_file_handler, info_stream_handler]
+    propagate: no

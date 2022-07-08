@@ -1,0 +1,5 @@
+1	first text here
+2	second text there
+7	third text here
+8	тут текст 1
+10	тут другой текст
